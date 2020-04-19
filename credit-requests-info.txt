@@ -1,0 +1,39 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ CREDIT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ CREDIT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Most of the files are from Camporter96's Custom Vertical Grids for New Steam Library repo. 
+Unfortunately, the his Github is down, so here is a link to his official Google Drive Mirror Link instead.
+https://drive.google.com/drive/folders/1mTI6VqvHKwWfyg3hUdhCg1nM0NhlXzLX
+
+Ace of Spades: refreshfr on SteamGridDB
+Ace of Spades Alternate 1: TNT on SteamGridDB
+Minecraft: QuiGonJinnah on SteamGridDB
+Half-Life: Alyx: voix on SteamGridDB
+Counter-Strike: Classic Offensive: SXSwire3 on SteamGridDB
+Deceit: isaktamin on SteamGridDB
+DELTARUNE: TalkyPup on SteamGridDB
+DELTARUNE Alternate 1: lazerfox on SteamGridDB
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ CREDIT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ REQUESTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Want to request a logo to be added? Send me a message on my Steam profile...
+https://steamcommunity.com/id/npform
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ INSTALL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Move `grid` to `C:\Program Files (x86)\Steam\userdata\<steamID>\config\grid` and replace any existing files.
+`custom`, `alternate-custom`, `alternate-grid` will have to be changed manually. 
+Assuming you've already added it to Steam as a Non-Steam game, right click on the game picture or text that you 
+want to change it to, go into manage and press Set Custom Artwork. If you already have custom artwork on your 
+game you will have to remove it first. Right click on the game picture, go into manage, and press Clear Custom
+Artwork. Then, follow the normal instructions to install a custom grid picture.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ INSTALL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ NOTE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I believe you can automate this process using a batch file, however I do not know how to make advanced batch 
+files. If you can help me out, please do.
+
+
